@@ -1,5 +1,5 @@
 getgenv().Resolution = {
-    [".PlutoUI	"] = 0.65
+    [".PlutoUI"] = 0.65
 }
 
 local Camera = workspace.CurrentCamera
